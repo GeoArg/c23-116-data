@@ -9,7 +9,7 @@
 <P>Detección y prevención de fraudes con tarjetas de crédito.</P>
 </BR>
 
-Stack | Tecnologías | Herramientas
+<H2>Stack | Tecnologías | Herramientas</H2>
 <UL>
 <LI>Python</LI>
 <LI>Javascript</LI>
